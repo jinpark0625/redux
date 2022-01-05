@@ -1,0 +1,6 @@
+module Pods_reduxx_reduxxTests {
+  umbrella header "Pods-reduxx-reduxxTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
